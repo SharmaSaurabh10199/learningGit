@@ -4,4 +4,7 @@ class Multiply{
         int b= 4;
         int c= a*b;
     }
+    public int divide{
+
+    }
 }
